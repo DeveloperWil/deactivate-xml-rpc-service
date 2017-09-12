@@ -22,7 +22,7 @@ Other plugins and services that use the XML-RPC API will also not function prope
 
 
 = Plugin Page =
-[Deactivate XML-RPC](https://zeropointdevelopment.com/wordpress-plugins/deactive-xml-rpc-service-wordpress-plugin/ "Deactivate XML-RPC Service WordPress Plugin")
+[Deactivate XML-RPC](https://zeropointdevelopment.com/wordpress-plugins/deactivate-xml-rpc-service-wordpress-plugin/ "Deactivate XML-RPC Service WordPress Plugin")
 
 == Installation ==
 
