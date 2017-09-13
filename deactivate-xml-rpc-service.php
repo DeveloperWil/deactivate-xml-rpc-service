@@ -3,7 +3,7 @@
 Plugin Name: Deactivate XML-RPC Service
 Plugin URI: https://zeropointdevelopment.com/wordpress-plugins/deactivate-xml-rpc-service-wordpress-plugin/
 Description: Deactivates the XMP-RPC API service.
-Version: 1.0.0
+Version: 1.0.1
 Author: DeveloperWil
 Author URI: https://profiles.wordpress.org/developerwil
 License: GPLv2
