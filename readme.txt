@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: XML-RPC, XMLRPC, XML RPC
 Requires at least: 3.5
 Requires PHP: 5.6
-Tested up to: 4.8.1
+Tested up to: 4.9
 Stable tag: 1.0.1
 
 Disables the XMP-RPC API service introduced in WordPress 3.5 and above.
