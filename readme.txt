@@ -2,10 +2,10 @@
 Contributors: DeveloperWil
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BEUW6MXMN7WWE
 Tags: XML-RPC, XMLRPC, XML RPC
-Requires at least: 3.5
-Requires PHP: 5.6
-Tested up to: 4.9
-Stable tag: 1.0.1
+Requires at least: 5.2
+Requires PHP: 7.4
+Tested up to: 5.6
+Stable tag: 1.0.3
 
 Disables the XMP-RPC API service introduced in WordPress 3.5 and above.
 
@@ -60,5 +60,17 @@ Nope. This plugin switches off the XML-RPC API. The official WordPress phone app
 1. After the plugin is activated.  Cannot connect to site using XML-RPC service.
 
 == Changelog ==
+= 1.0.3 =
+* Tested with WordPress 5.6
+* Bumped version number
+
+= 1.0.2 =
+* Tested with WordPress 5.0.3
+* Bumped version number
+
+= 1.0.1 =
+* Tested with WordPress 4.9
+* Bumped version number
+
 = 1.0.0 =
 * Initial release.
