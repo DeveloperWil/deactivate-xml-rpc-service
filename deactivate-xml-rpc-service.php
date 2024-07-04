@@ -6,7 +6,8 @@ Description: Deactivates the XMP-RPC API service.
 Version: 1.0.4
 Author: DeveloperWil
 Author URI: https://profiles.wordpress.org/developerwil
-License: GPLv2
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 /*
     Copyright © 2017 Zero Point Development.  (https://zeropointdevelopment.com)
